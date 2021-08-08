@@ -1,0 +1,40 @@
+body
+{
+  color: white;
+  background: url("Screenshot\ 2021-06-17\ at\ 4.54.39\ PM.png");
+}
+span
+{
+  font-size: 30px;
+}
+#webcam , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#object_1 ,#object_2
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 2px;
+}
+label{
+  font-size: 14px;
+  background-color: yellow;
+  color: black;
+  border-radius: 10px;
+  padding: 10px;
+  border: 5px solid;
+}
